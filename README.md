@@ -2,7 +2,7 @@
 
 ## The Monty language
 
-Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
+Monty is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it.
 
 ## Monty byte code files
 
@@ -10,7 +10,7 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 
 ## Goal of the project
 
-Monty is a scripting language that is first compiled into Monty Byte codes. It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files and using doubly linked list as stack or queue while being able to perform operations. The program aims to process user inputted commands for operations like add or multiple, stack or queue and have no memory leaks.
+The goal of this project is to create an interpreter for Monty ByteCodes files and using doubly linked list as stack or queue while being able to perform operations. The program aims to process user inputted commands for operations like add or multiple, stack or queue and have no memory leaks.
 
 
 
